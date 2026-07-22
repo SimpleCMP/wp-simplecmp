@@ -1,0 +1,22 @@
+/* SimpleCMP Admin Styles */
+.simplecmp-badge {
+    display: inline-block;
+    padding: 2px 8px;
+    border-radius: 3px;
+    font-size: 12px;
+    font-weight: 600;
+    line-height: 1.6;
+}
+.state-curated { background: #d4edda; color: #155724; }
+.state-recognised { background: #fff3cd; color: #856404; }
+.state-unknown { background: #f8d7da; color: #721c24; }
+.state-dismissed { background: #e2e3e5; color: #383d41; }
+.source-eigene { background: #cce5ff; color: #004085; }
+.source-aus_bibliothek { background: #d4edda; color: #155724; }
+.source-verwaist { background: #fff3cd; color: #856404; }
+.simplecmp-verwaist td { background: #fff8e1; }
+.simplecmp-library-meta {
+    color: #646970;
+    font-size: 13px;
+    margin-left: 8px;
+}
